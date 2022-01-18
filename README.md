@@ -1,5 +1,1 @@
-- 👋 Oi, eu sou o UT0P1C
-- 👀 Eu estou interessado na comunidade de PHP
-- 🌱 Atualmente estou aprendendo Laravel
-- 💞️ Eu quero colaborar com a comunidade de PHP
-- 📫 Você pode me achar no twitter @esq1z0
+vai toma no cu to nem ligano
