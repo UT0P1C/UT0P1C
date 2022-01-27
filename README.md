@@ -1,4 +1,4 @@
-## Hi there! I'm Ut0p1c
+## Hi there! I'm Vinicius Gomes ;D
 
 -🇧🇷 / 🇺🇸
 
