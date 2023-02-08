@@ -3,11 +3,6 @@
 -🇧🇷 / 🇺🇸
 
 -He/Him 🚹
-
-  <div align="center">
-    <a href="https://github.com/UT0P1C">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UT0P1C&layout=compact&langs_count=7&theme=tokyonight"/>
-  </div>
   
   <div style="display: inline_block"><br>
     <img align="center" alt="Vue.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
